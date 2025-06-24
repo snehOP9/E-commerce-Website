@@ -1,4 +1,4 @@
-# Flipkart - MERN
+E Commerce Website
 Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 [Visit Now](https://flipkartweb-mern.vercel.app) 🚀
